@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 26.458333 26.458334"
+   height="100"
+   width="100">
+  <defs
+     id="defs2">
+    <filter
+       id="filter1521"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1511"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.223529" />
+      <feComposite
+         id="feComposite1513"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1515"
+         result="blur"
+         stdDeviation="2.6"
+         in="composite1" />
+      <feOffset
+         id="feOffset1517"
+         result="offset"
+         dy="2.71689"
+         dx="-1.75274" />
+      <feComposite
+         id="feComposite1519"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       transform="matrix(0.20053533,0,0,0.20053533,-3.7685161,-22.449269)"
+       id="g1526">
+      <rect
+         y="118.54362"
+         x="25.389206"
+         height="118.74466"
+         width="79.163109"
+         id="rect1643"
+         style="opacity:0.999;fill:#de00fe;fill-opacity:0.698039;stroke-width:31.2504;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5" />
+      <rect
+         y="171.31903"
+         x="71.56768"
+         height="65.969254"
+         width="72.566177"
+         id="rect1645"
+         style="opacity:0.999;fill:#00ddfe;fill-opacity:0.698039;stroke-width:31.5384;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5" />
+    </g>
+  </g>
+</svg>
